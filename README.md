@@ -239,3 +239,6 @@ This repository serves as the official landing page for VLC Media Player. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of VLC Media Player today!**
+
+---
+**Last updated:** 2026-09-10 07:14:58 UTC
