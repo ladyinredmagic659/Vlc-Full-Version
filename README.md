@@ -241,4 +241,4 @@ This repository serves as the official landing page for VLC Media Player. The so
 **Get the most recent version of VLC Media Player today!**
 
 ---
-**Last updated:** 2026-10-01 20:56:07 UTC
+**Last updated:** 2026-10-02 00:39:01 UTC
